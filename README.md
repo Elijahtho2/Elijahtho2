@@ -1,7 +1,7 @@
 <h1>Hi, I'm Elijah! <br/><a href="https://github.com/joshmadakor1">Junior Linux Administrator</a>
 <h2>👨‍💻 RHEL 10 Small Government Multi-Nodal Project:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>    -will fill this in later----
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Certifications </h2>
