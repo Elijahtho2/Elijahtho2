@@ -1,37 +1,108 @@
-<h1>Hi, I'm Elijah! <br/><a href="https://github.com/joshmadakor1">Junior Linux Administrator</a>
-<h2>👨‍💻 RHEL 10 Small Government Multi-Nodal Project:</h2>
+# 👋 Hi, I'm Elijah
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>    -will fill this in later----
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+💻 Linux Systems Administrator (RHCSA Track)  
+⚙️ Multi-Node Infrastructure | Ansible Automation | AI-Assisted Operations  
 
-<h2> Certifications </h2>
+---
 
-- CompTIA Security+
-- RedHat EX200 RHCSA
+## 🚀 About Me
 
+I build and manage multi-node Linux environments that simulate real-world GovTech infrastructure.
 
-<h2> 🤳 Connect with me:</h2>
+My focus is on:
+- System administration (RHEL 10 / RHCSA-aligned)
+- Infrastructure automation using Ansible
+- Security enforcement with SELinux and firewalld
+- AI-assisted troubleshooting and workflow optimization
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
+## 🧠 What I’m Currently Doing
 
+- Building a **30-day multi-node RHEL infrastructure lab**
+- Automating system administration tasks with **Ansible**
+- Strengthening **SELinux + security-first configurations**
+- Applying **AI to accelerate debugging and configuration workflows**
 
-[linkedin]: https://linkedin.com/in/elijahthomas94
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗️ Featured Project
 
-Here are some ideas to get you started:
+### 🔗 RHEL GovTech Multi-Nodal Infrastructure Lab
+A full-scale, 3-node Linux environment simulating real-world infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Nodes
+- **gov-admin** → Control node (Ansible + orchestration)
+- **gov-auth** → Authentication & user management
+- **gov-app** → Application server (Apache)
+
+#### ⚙️ What I Built
+- Apache web server deployment and configuration
+- NFS shared storage across nodes
+- SSH connectivity and trust relationships
+- Firewall configuration (firewalld)
+- SELinux enforcement and troubleshooting
+- Storage management using LVM
+- Persistent mounts and system logging
+
+#### 🤖 Automation
+- Ansible playbooks for:
+  - SELinux configuration
+  - Apache deployment and port management
+  - Firewall rules
+  - User policy enforcement
+
+#### 🧠 AI Integration
+Used AI to:
+- Generate and validate commands
+- Troubleshoot system issues
+- Assist in writing Ansible playbooks
+- Confirm expected system behavior
+
+📁 Repo:
+👉 https://github.com/Elijahtho2/rhel-govtech-multi.nodal-infrastructure
+
+---
+
+## 🛠️ Tech Stack
+
+- **Linux (RHEL 10)**
+- **Ansible**
+- Apache (httpd)
+- NFS
+- SSH
+- SELinux
+- firewalld
+- LVM (Logical Volume Manager)
+- Bash scripting
+
+---
+
+## 📈 What I Bring
+
+- Hands-on multi-node infrastructure experience  
+- Security-first system configuration mindset  
+- Automation-first approach using Ansible  
+- Ability to leverage AI to increase operational efficiency  
+
+---
+
+## 🎯 Goals
+
+- Land a **Junior Linux System Administrator role (GovTech preferred)**
+- Continue into **Cloud / Security / Automation (DevSecOps path)**
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: www.linkedin.com/in/elijahthomas94
+
+- GitHub: You're already here 🙂
+
+---
+
+## ⚡ Fun Fact
+
+I approach system administration like architecture —  
+build it manually first, understand it deeply, then automate it.
