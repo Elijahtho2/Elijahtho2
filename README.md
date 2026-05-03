@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Elijah
 
-💻 Linux Systems Administrator (RHCSA Track)  
+💻 Linux Systems Administrator | RHCSA | Security+ | GovTech Focus
+
 ⚙️ Multi-Node Infrastructure | Ansible Automation | AI-Assisted Operations  
 
 ---
@@ -14,6 +15,14 @@ My focus is on:
 - Infrastructure automation using Ansible
 - Security enforcement with SELinux and firewalld
 - AI-assisted troubleshooting and workflow optimization
+
+
+---
+
+## 🎓 Certifications
+
+- Red Hat Certified System Administrator (RHCSA)
+- CompTIA Security+
 
 ---
 
