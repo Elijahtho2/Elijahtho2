@@ -5,7 +5,7 @@ RHCSA (RHEL 10) and CompTIA Security+ certified. I build, break, and fix multi-n
 
 ## Start here
 - **[iam-portfolio-labs](https://github.com/Elijahtho2/iam-portfolio-labs)**: GovTech-modeled identity infrastructure (FreeIPA, Ansible, Splunk, Entra ID). Includes an automated Joiner-Mover-Leaver lifecycle and a troubleshooting write-up of a real module bug.
-- **[rhel-govtech-multinode-lab](https://github.com/Elijahtho2/rhel-govtech-multi.nodal-infrastructure)**: three-node RHEL 10 build covering LVM, SELinux, NFS, Apache, and firewalld.
+- **[rhel-govtech-multinode-lab](https://github.com/Elijahtho2/rhel-govtech-multinode-lab)**: three-node RHEL 10 build covering LVM, SELinux, NFS, Apache, and firewalld.
 
 ## Skills
 RHEL 10 · FreeIPA · Ansible · SELinux · STIG hardening · Splunk · Microsoft Entra ID · HashiCorp Vault · Bash · PowerShell · Git
