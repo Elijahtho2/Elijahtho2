@@ -1,117 +1,20 @@
-# 👋 Hi, I'm Elijah
+# Elijah Thomas
+**Linux Systems Administrator | RHEL & Identity Access Management | GovTech**
 
-💻 Linux Systems Administrator | RHCSA | Security+ | GovTech Focus
+RHCSA (RHEL 10) and CompTIA Security+ certified. I build, break, and fix multi-node RHEL environments, and document every fix so the next person doesn't have to guess.
 
-⚙️ Multi-Node Infrastructure | Ansible Automation | AI-Assisted Operations  
+## Start here
+- **[iam-portfolio-labs](https://github.com/Elijahtho2/iam-portfolio-labs)**: GovTech-modeled identity infrastructure (FreeIPA, Ansible, Splunk, Entra ID). Includes an automated Joiner-Mover-Leaver lifecycle and a troubleshooting write-up of a real module bug.
+- **[rhel-govtech-multinode-lab](https://github.com/Elijahtho2/rhel-govtech-multi.nodal-infrastructure)**: three-node RHEL 10 build covering LVM, SELinux, NFS, Apache, and firewalld.
 
----
+## Skills
+RHEL 10 · FreeIPA · Ansible · SELinux · STIG hardening · Splunk · Microsoft Entra ID · HashiCorp Vault · Bash · PowerShell · Git
 
-## 🚀 About Me
+## Certifications
+RHCSA (2026) · CompTIA Security+ (2025) · Microsoft SC-300 (in progress)
 
-I build and manage multi-node Linux environments that simulate real-world GovTech infrastructure.
+## Currently
+Building an identity governance lab (Entra ID access packages and entitlement management), followed by a privileged access lab with Vault and FreeIPA.
 
-My focus is on:
-- System administration (RHEL 10 / RHCSA-aligned)
-- Infrastructure automation using Ansible
-- Security enforcement with SELinux and firewalld
-- AI-assisted troubleshooting and workflow optimization
-
-
----
-
-## 🎓 Certifications
-
-- Red Hat Certified System Administrator (RHCSA)
-- CompTIA Security+
-
----
-
-## 🧠 What I’m Currently Doing
-
-- Building a **30-day multi-node RHEL infrastructure lab**
-- Automating system administration tasks with **Ansible**
-- Strengthening **SELinux + security-first configurations**
-- Applying **AI to accelerate debugging and configuration workflows**
-
----
-
-## 🏗️ Featured Project
-
-### 🔗 RHEL GovTech Multi-Nodal Infrastructure Lab
-A full-scale, 3-node Linux environment simulating real-world infrastructure.
-
-#### 🔧 Nodes
-- **gov-admin** → Control node (Ansible + orchestration)
-- **gov-auth** → Authentication & user management
-- **gov-app** → Application server (Apache)
-
-#### ⚙️ What I Built
-- Apache web server deployment and configuration
-- NFS shared storage across nodes
-- SSH connectivity and trust relationships
-- Firewall configuration (firewalld)
-- SELinux enforcement and troubleshooting
-- Storage management using LVM
-- Persistent mounts and system logging
-
-#### 🤖 Automation
-- Ansible playbooks for:
-  - SELinux configuration
-  - Apache deployment and port management
-  - Firewall rules
-  - User policy enforcement
-
-#### 🧠 AI Integration
-Used AI to:
-- Generate and validate commands
-- Troubleshoot system issues
-- Assist in writing Ansible playbooks
-- Confirm expected system behavior
-
-📁 Repo:
-👉 https://github.com/Elijahtho2/rhel-govtech-multi.nodal-infrastructure
-
----
-
-## 🛠️ Tech Stack
-
-- **Linux (RHEL 10)**
-- **Ansible**
-- Apache (httpd)
-- NFS
-- SSH
-- SELinux
-- firewalld
-- LVM (Logical Volume Manager)
-- Bash scripting
-
----
-
-## 📈 What I Bring
-
-- Hands-on multi-node infrastructure experience  
-- Security-first system configuration mindset  
-- Automation-first approach using Ansible  
-- Ability to leverage AI to increase operational efficiency  
-
----
-
-## 🎯 Goals
-
-- Land a **Junior Linux System Administrator role (GovTech preferred)**
-- Continue into **Cloud / Security / Automation (DevSecOps path)**
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: www.linkedin.com/in/elijahthomas94
-
-- GitHub: You're already here 🙂
-
----
-
-## ⚡ Fun Fact
-
-I approach system administration like architecture —  
-build it manually first, understand it deeply, then automate it.
+Open to Systems Administrator and IAM roles, clearance eligible, willing to relocate.
+[LinkedIn](https://linkedin.com/in/elijahthomas94)
